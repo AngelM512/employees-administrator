@@ -1,9 +1,7 @@
 ##############################################
-# Name: Angel Moreta
-# Assignment: final project
+# Author: Angel Moreta
 # Purpose: shows employees currently on the system
 # you can also look for their name, last name or id
-# note: n/a
 ##############################################
 
 import final_project
