@@ -1,8 +1,5 @@
 ##############################################
 # Name: Angel Moreta
-# Assignment: final project class
-# Purpose:
-# note: n/a
 ##############################################
 
 class Employee():
